@@ -7,14 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E5057FE11BD8BBCD007981A4 /* main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		E5057FE21BD8BF45007981A4 /* blackjack.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = blackjack.py; sourceTree = "<group>"; };
+		E5057FE31BD8BF45007981A4 /* randomPolicy.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = randomPolicy.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		E5057FD61BD8BB91007981A4 = {
 			isa = PBXGroup;
 			children = (
-				E5057FE11BD8BBCD007981A4 /* main.py */,
+				E5057FE21BD8BF45007981A4 /* blackjack.py */,
+				E5057FE31BD8BF45007981A4 /* randomPolicy.py */,
 			);
 			sourceTree = "<group>";
 		};
